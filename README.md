@@ -4,7 +4,7 @@ ArtChainMarket is a dynamic web application that seamlessly integrates live weat
 
 ## Features
 
-### 1. Live Weather and Time Integration
+### 1. Live Weather and Time Integration 
 
 - **Weather Data:** Utilizing a weather API, the application displays real-time weather information for the user's current location, ensuring an up-to-the-minute understanding of local conditions.
 
